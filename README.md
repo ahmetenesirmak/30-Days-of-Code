@@ -6,7 +6,7 @@
 </p>
 
 ![Language](https://img.shields.io/badge/Language-Swift-orange.svg)
-![Challenges](https://img.shields.io/badge/Challenges-1_Complete-green.svg)
+![Challenges](https://img.shields.io/badge/Challenges-2_Complete-green.svg)
 
 Hello everyone 👋🏻
 
