@@ -6,7 +6,7 @@
 </p>
 
 ![Language](https://img.shields.io/badge/Language-Swift-orange.svg)
-![Challenges](https://img.shields.io/badge/Challenges-2_Complete-green.svg)
+![Challenges](https://img.shields.io/badge/Challenges-4_Complete-green.svg)
 
 Hello everyone 👋🏻
 
@@ -24,9 +24,27 @@ I will solve these coding problems within 30 days and share them in this reposit
     <th><p align="center">Date Submitted</p></th>
   </tr>
   <tr>
-    <td><a align="center" href="https://www.hackerrank.com/challenges/a-very-big-sum">Hello, World</a></td>
+    <td><a align="center" href="https://www.hackerrank.com/challenges/30-hello-world/problem?isFullScreen=true">Hello, World</a></td>
     <td><a align="center" href="https://github.com/ahmetenesirmak/30-Days-of-Code/blob/master/day-0.swift">day-0.swift</a></td>
     <td>Easy</td>
     <td>Aug 23, 2022</td>
+  </tr>
+    <tr>
+    <td><a align="center" href="https://www.hackerrank.com/challenges/30-data-types/problem?isFullScreen=true">Data Types</a></td>
+    <td><a align="center" href="https://github.com/ahmetenesirmak/30-Days-of-Code/blob/master/day-1.swift">day-1.swift</a></td>
+    <td>Easy</td>
+    <td>Aug 24, 2022</td>
+  </tr>
+    <tr>
+    <td><a align="center" href="https://www.hackerrank.com/challenges/30-operators/problem?isFullScreen=true">Operators</a></td>
+    <td><a align="center" href="https://github.com/ahmetenesirmak/30-Days-of-Code/blob/master/day-2.swift">day-2.swift</a></td>
+    <td>Easy</td>
+    <td>Aug 25, 2022</td>
+  </tr>
+    <tr>
+    <td><a align="center" href="https://www.hackerrank.com/challenges/30-conditional-statements/problem?isFullScreen=true">Intro to Conditional Statements</a></td>
+    <td><a align="center" href="https://github.com/ahmetenesirmak/30-Days-of-Code/blob/master/day-3.swift">day-3.swift</a></td>
+    <td>Easy</td>
+    <td>Aug 26, 2022</td>
   </tr>
   </table>
