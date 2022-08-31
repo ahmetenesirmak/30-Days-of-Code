@@ -6,7 +6,7 @@
 </p>
 
 ![Language](https://img.shields.io/badge/Language-Swift-orange.svg)
-![Challenges](https://img.shields.io/badge/Challenges-4_Complete-green.svg)
+![Challenges](https://img.shields.io/badge/Challenges-8_Complete-green.svg)
 
 Hello everyone 👋🏻
 
@@ -46,5 +46,34 @@ I will solve these coding problems within 30 days and share them in this reposit
     <td><a align="center" href="https://github.com/ahmetenesirmak/30-Days-of-Code/blob/master/day-3.swift">day-3.swift</a></td>
     <td>Easy</td>
     <td>Aug 26, 2022</td>
+  </tr>
+    
+   <tr>
+    <td><a align="center" href="https://www.hackerrank.com/challenges/30-class-vs-instance/problem?isFullScreen=true">Class vs. Instance</a></td>
+    <td><a align="center" href="https://github.com/ahmetenesirmak/30-Days-of-Code/blob/master/day-4.swift">day-4.swift</a></td>
+    <td>Easy</td>
+    <td>Aug 27, 2022</td>
+  </tr>
+    
+   <tr>
+    <td><a align="center" href="https://www.hackerrank.com/challenges/30-loops/problem?isFullScreen=true">Loops</a></td>
+    <td><a align="center" href="https://github.com/ahmetenesirmak/30-Days-of-Code/blob/master/day-5.swift">day-5.swift</a></td>
+    <td>Easy</td>
+    <td>Aug 28, 2022</td>
+  </tr>
+    
+   <tr>
+    <td><a align="center" href="https://www.hackerrank.com/challenges/30-review-loop/problem?isFullScreen=true">Let's Review</a></td>
+    <td><a align="center" href="https://github.com/ahmetenesirmak/30-Days-of-Code/blob/master/day-6.swift">day-6.swift</a></td>
+    <td>Easy</td>
+    <td>Aug 30, 2022</td>
+  </tr>
+    
+    
+   <tr>
+    <td><a align="center" href="https://www.hackerrank.com/challenges/30-arrays/problem">Arrays</a></td>
+    <td><a align="center" href="https://github.com/ahmetenesirmak/30-Days-of-Code/blob/master/day-7.swift">day-7.swift</a></td>
+    <td>Easy</td>
+    <td>Aug 31, 2022</td>
   </tr>
   </table>
