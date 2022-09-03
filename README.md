@@ -71,9 +71,23 @@ I will solve these coding problems within 30 days and share them in this reposit
     
     
    <tr>
-    <td><a align="center" href="https://www.hackerrank.com/challenges/30-arrays/problem">Arrays</a></td>
+    <td><a align="center" href="https://www.hackerrank.com/challenges/30-arrays/problem?isFullScreen=true">Arrays</a></td>
     <td><a align="center" href="https://github.com/ahmetenesirmak/30-Days-of-Code/blob/master/day-7.swift">day-7.swift</a></td>
     <td>Easy</td>
     <td>Aug 31, 2022</td>
+  </tr>
+    
+   <tr>
+    <td><a align="center" href="https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem?isFullScreen=true">Dictionaries and Maps</a></td>
+    <td><a align="center" href="https://github.com/ahmetenesirmak/30-Days-of-Code/blob/master/day-8.swift">day-8.swift</a></td>
+    <td>Easy</td>
+    <td>Sep 1, 2022</td>
+  </tr>
+    
+   <tr>
+    <td><a align="center" href="https://www.hackerrank.com/challenges/30-recursion/problem?isFullScreen=true">Recursion 3</a></td>
+    <td><a align="center" href="https://github.com/ahmetenesirmak/30-Days-of-Code/blob/master/day-9.swift">day-9.swift</a></td>
+    <td>Easy</td>
+    <td>Sep 2, 2022</td>
   </tr>
   </table>
